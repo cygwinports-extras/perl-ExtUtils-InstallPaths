@@ -1,0 +1,10 @@
+CPAN_AUTHOR=leont
+inherit perl
+
+NAME="perl-ExtUtils-InstallPaths"
+VERSION=0.009
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl installation path resolution module"
+DESCRIPTION="This Perl module tries to make install path resolution for other
+Perl modules as easy as possible."
